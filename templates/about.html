@@ -1,0 +1,34 @@
+{% extends "index.html" %}
+
+{% block pagetitle %}
+    {{ head::titlesite(page_title = page.title) }}
+{% endblock pagetitle %}
+
+{% block masthead %}
+{{ macros::masthead(current_url=page.permalink) }}
+<style>
+    @font-face {
+        font-family: 'IBMPlexSansKR-Regular';
+        src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-07@1.0/IBMPlexSansKR-Regular.woff') format('woff');
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    body {
+        font-family: 'IBMPlexSansKR-Regular', sans-serif;
+    }
+</style>
+{% endblock masthead %}
+
+{% block navigation_list %}
+   {{ sidebar::nav(navlist = sidebar_nav.nav, page_permalink = page.permalink) }}
+{% endblock navigation_list %}
+
+{% block content %}
+    <div class="page">
+    {% block page_content %}
+    <h1 class="page-title">{{ page.title }}</h1>
+    {{ page.content | safe }}
+    {% endblock page_content %}
+    </div>
+{% endblock content %}
