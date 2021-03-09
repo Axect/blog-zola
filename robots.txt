@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://axect.github.io/blog-zola/sitemap.xml

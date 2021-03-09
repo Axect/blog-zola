@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="ko">
+	<title>Axect&#x27;s Blog</title>
+	<subtitle>Mathematics, Physics and Computations</subtitle>
+	<link href="https://axect.github.io/blog-zola/ko/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://axect.github.io/blog-zola"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-03-09T00:00:00+00:00</updated>
+	<id>https://axect.github.io/blog-zola/ko/atom.xml</id>
+	<entry xml:lang="ko">
+		<title>About</title>
+		<published>2021-03-09T00:00:00+00:00</published>
+		<updated>2021-03-09T00:00:00+00:00</updated>
+		<link href="https://axect.github.io/blog-zola/ko/about/" type="text/html"/>
+		<id>https://axect.github.io/blog-zola/ko/about/</id>
+		<content type="html">&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Axect&quot;&gt;&lt;strong&gt;김태근 (Axect)&lt;&#x2F;strong&gt;&lt;&#x2F;a&gt;을 소개합니다.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;jjeneun&quot;&gt;저는&lt;&#x2F;h2&gt;
+&lt;p&gt;수학, 물리학 그리고 프로그래밍을 좋아하는 대학원생입니다.&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;hagryeog&quot;&gt;학력&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Ph.D: 연세대학교 대학원 물리학과 (2020 ~ )&lt;&#x2F;li&gt;
+&lt;li&gt;M.S.: 연세대학교 대학원 물리학과 (2017 ~ 2019)&lt;&#x2F;li&gt;
+&lt;li&gt;B.S.: 연세대학교 천문우주학과 (2012 ~ 2017)&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;hyeogubbuya&quot;&gt;연구분야&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;입자물리학 현상론&lt;&#x2F;li&gt;
+&lt;li&gt;과학계산&lt;&#x2F;li&gt;
+&lt;li&gt;우주론 및 수치 상대론&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;hagmun-mic-giras&quot;&gt;학문 및 기술&lt;&#x2F;h2&gt;
+&lt;h3 id=&quot;suhag&quot;&gt;수학&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;함수해석학&lt;&#x2F;li&gt;
+&lt;li&gt;수치해석학
+&lt;ul&gt;
+&lt;li&gt;유한차분법&lt;&#x2F;li&gt;
+&lt;li&gt;유한요소법&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;미분기하학&lt;&#x2F;li&gt;
+&lt;li&gt;위상수학&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;mulrihag&quot;&gt;물리학&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;일반상대성이론&lt;&#x2F;li&gt;
+&lt;li&gt;양자장이론&lt;&#x2F;li&gt;
+&lt;li&gt;수리물리학&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h3 id=&quot;peuroggeraeonco&quot;&gt;프로그래밍&lt;&#x2F;h3&gt;
+&lt;ul&gt;
+&lt;li&gt;주 언어
+&lt;ul&gt;
+&lt;li&gt;Rust, Julia, Python&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;보조 언어
+&lt;ul&gt;
+&lt;li&gt;C++, Fortran, Haskell&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;프레임워크 및 라이브러리
+&lt;ul&gt;
+&lt;li&gt;수치 계산
+&lt;ul&gt;
+&lt;li&gt;peroxide, BLAS, LAPACK, numpy, scipy&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;시각화
+&lt;ul&gt;
+&lt;li&gt;matplotlib, vegas, ggplot2, plotly&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;웹
+&lt;ul&gt;
+&lt;li&gt;Django, Vue, Firebase, Surge, Hugo, Zola&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;머신러닝
+&lt;ul&gt;
+&lt;li&gt;Flux, Tensorflow, Torch&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;hr &#x2F;&gt;
+&lt;h2 id=&quot;peurojjeteu&quot;&gt;프로젝트&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Peroxide&lt;&#x2F;strong&gt;: Rust 수치 계산 라이브러리 (Maintainer)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;링크
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Axect&#x2F;Peroxide&quot;&gt;Github&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;peroxide&quot;&gt;Crates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;peroxide.surge.sh&quot;&gt;Docs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;사용 기술
+&lt;ul&gt;
+&lt;li&gt;Vectorization: SIMD, BLAS, LAPACK&lt;&#x2F;li&gt;
+&lt;li&gt;FFI: C, Fortran, Python&lt;&#x2F;li&gt;
+&lt;li&gt;Data structures: Dataframe&lt;&#x2F;li&gt;
+&lt;li&gt;IO: csv, netcdf, json&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Puruspe&lt;&#x2F;strong&gt;: 순수 Rust Special function 라이브러리 (Maintainer)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;링크
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Axect&#x2F;Puruspe&quot;&gt;Github&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;crates.io&#x2F;crates&#x2F;puruspe&quot;&gt;Crates&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;docs.rs&#x2F;puruspe&quot;&gt;Docs&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;HNumeric&lt;&#x2F;strong&gt;: Haskell 수치 계산 라이브러리 (Archived)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;링크
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Axect&#x2F;HNumeric&quot;&gt;Github&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;hackage.haskell.org&#x2F;package&#x2F;HNumeric&quot;&gt;Hackage&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;DNumeric&lt;&#x2F;strong&gt;: D 수치 계산 라이브러리 (Archived)&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;링크
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Axect&#x2F;DNumeric&quot;&gt;Github&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;code.dlang.org&#x2F;packages&#x2F;dnumeric&quot;&gt;DUB&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+</content>
+	</entry>
+	<entry xml:lang="ko">
+		<title>고등학교 수학으로 이해하는 MLE</title>
+		<published>2021-03-09T00:00:00+00:00</published>
+		<updated>2021-03-09T00:00:00+00:00</updated>
+		<link href="https://axect.github.io/blog-zola/ko/blog/highschool-mle/" type="text/html"/>
+		<id>https://axect.github.io/blog-zola/ko/blog/highschool-mle/</id>
+		<content type="html">&lt;p&gt;테스트&lt;&#x2F;p&gt;
+&lt;p&gt;$$x^2 + 2x + 1 = (x + 1)^2$$&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
