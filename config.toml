@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://axect.github.io"
+base_url = "https://axect.github.io/blog-zola"
 
 title = "Axect's Blog"
 description = "Mathematics, Physics and Computations"
