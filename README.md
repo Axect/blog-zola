@@ -10,5 +10,5 @@ git submodule update
 ## Zola
 
 ```sh
-zola serve
+zola build ../axect.github.io
 ```
