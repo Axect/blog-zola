@@ -1,0 +1,3 @@
+[submodule "themes/codinfox-zola"]
+	path = themes/codinfox-zola
+	url = https://github.com/Axect/codinfox-zola
