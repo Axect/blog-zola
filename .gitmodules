@@ -4,3 +4,6 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/Axect/axect.github.io
+[submodule "axect.github.io"]
+	path = axect.github.io
+	url = https://github.com/Axect/axect.github.io
